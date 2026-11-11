@@ -29,7 +29,7 @@
 
 ### 📊 Estatísticas do Github
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lunalab2026&theme=radical" />
 </p>
 
 ---
