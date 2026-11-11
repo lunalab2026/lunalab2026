@@ -2,7 +2,7 @@
 
 <a href="https://github.com/lunalab2026">
   <img src="matrix-cursor.svg" alt="" width="12" height="55" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00FF41&vCenter=true&repeat=true&width=800&height=55&lines=LUNA LAB CORP.+%2F+MATRIX+ONLINE;Explorando+tecnologia%2C+c%C3%B3digo+e+criatividade" alt="Luna Lab Corp — Matrix online; explorando tecnologia, código e criatividade" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=900&color=00FF41&vCenter=true&repeat=true&width=800&height=55&lines=LUNA+LAB+CORP.+%2F+MATRIX+ONLINE;Explorando+tecnologia%2C+c%C3%B3digo+e+criatividade" alt="Luna Lab Corp — Matrix online; explorando tecnologia, código e criatividade" />
 </a>
 
 <br />
