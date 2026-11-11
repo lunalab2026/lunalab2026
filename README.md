@@ -1,6 +1,6 @@
 <p align="center">
   <!-- Substitua a URL abaixo pelo link direto do seu GIF convertido -->
-  <img src="[https://github.com/lunalab2026/lunalab2026/blob/main/Mac_M2_Ultra_Night.png?raw=true)" alt="Capa Animada" width="100%">
+  <img src="https://github.com/lunalab2026/lunalab2026/blob/main/Mac_M2_Ultra_Night.png?raw=true" alt="Capa Animada" width="100%">
 </p>
 
 # Olá, mundo! 👋 Sou o Luna
