@@ -51,7 +51,7 @@ for i, t in enumerate(lines):
     times = [0, a, a + 0.12, a + 0.30, a + 0.33, 1]
     vals = [0, 0, w, w, 0, 0]
     clips.append(
-        f'<clipPath id="cl{i}"><rect x="{x0:.1f}" y="188" height="36" width="0">'
+        f'<clipPath id="cl{i}"><rect x="{x0:.1f}" y="188" height="36" width="{w:.1f}">'
         f'<animate attributeName="width" dur="{D}s" repeatCount="indefinite" '
         f'keyTimes="{";".join(f"{v:.4f}" for v in times)}" values="{";".join(f"{v:.1f}" for v in vals)}"/></rect></clipPath>'
     )
@@ -155,7 +155,7 @@ for i, (s, d, full, kind) in enumerate(sched):
     kts = [0, s / DT, (s + d) / DT, (DT - 0.5) / DT, 1]
     vals = [0, 0, w, w, 0]
     els.append(
-        f'<clipPath id="t{i}"><rect x="{x0}" y="{y-20}" height="28" width="0"><animate attributeName="width" dur="{DT:.2f}s" repeatCount="indefinite" '
+        f'<clipPath id="t{i}"><rect x="{x0}" y="{y-20}" height="28" width="{w:.1f}"><animate attributeName="width" dur="{DT:.2f}s" repeatCount="indefinite" '
         f'keyTimes="{";".join(f(v) for v in kts)}" values="{";".join(f"{v:.1f}" for v in vals)}"/></rect></clipPath>'
     )
 for i, (s, d, full, kind) in enumerate(sched):
