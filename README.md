@@ -62,7 +62,7 @@
 <h3 align="center"><code>&gt; git log --stats</code></h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lunalab2026/lunalab2026/main/assets/telemetry.svg" alt="Painel de telemetria: repositórios, estrelas, seguidores, linguagens e atividade das últimas 52 semanas" width="100%" />
+  <img src="https://raw.githubusercontent.com/lunalab2026/lunalab2026/main/assets/telemetry.svg?v=cb7ee19" alt="Painel de telemetria: repositórios, estrelas, seguidores, linguagens e atividade das últimas 52 semanas" width="100%" />
 </div>
 
 <p align="center">
@@ -82,11 +82,7 @@
 
 <h3 align="center"><code>&gt; watch --live git contributions</code></h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lunalab2026/lunalab2026/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lunalab2026/lunalab2026/output/github-contribution-grid-snake.svg" />
-  <img alt="Animação da cobrinha percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/lunalab2026/lunalab2026/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
+<img alt="Animação da cobrinha Matrix percorrendo o gráfico de contribuições do GitHub" src="https://raw.githubusercontent.com/lunalab2026/lunalab2026/output/github-contribution-grid-snake-dark.svg?v=matrix-green-v1" width="100%" />
 
 <div align="center">
 
@@ -103,7 +99,5 @@
 </details>
 
 <img src="https://raw.githubusercontent.com/lunalab2026/lunalab2026/main/assets/divider.svg" alt="" width="100%">
-
-<samp>01001100 01010101 01001110 01000001 &nbsp; // &nbsp; SYSTEM ONLINE</samp>
 
 </div>
