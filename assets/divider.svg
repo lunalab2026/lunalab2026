@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 34" width="1000" height="34" role="img" aria-label="Divisor Matrix">
+<defs>
+<linearGradient id="sw" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#00ff41" stop-opacity="0"/><stop offset=".5" stop-color="#00ff41"/><stop offset="1" stop-color="#00ff41" stop-opacity="0"/></linearGradient>
+<filter id="g" x="-5%" y="-300%" width="110%" height="700%"><feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>text{font-family:'Courier New',Courier,'Liberation Mono','DejaVu Sans Mono',monospace}.p{animation:pulse 2.4s ease-in-out infinite}@keyframes pulse{0%,100%{opacity:.45}50%{opacity:1}}</style>
+</defs>
+<rect width="1000" height="34" rx="6" fill="#020a03"/>
+<rect x="0" y="16" width="1000" height="2" fill="#003b00"/>
+<rect y="15" width="260" height="4" fill="url(#sw)" filter="url(#g)"><animate attributeName="x" from="-260" to="1000" dur="3.2s" repeatCount="indefinite"/></rect>
+<rect x="188" y="4" width="624" height="26" fill="#020a03"/>
+<text class="p" x="500" y="22" font-size="13" text-anchor="middle" fill="#00ff41" textLength="600" lengthAdjust="spacing">01001100 01010101 01001110 01000001 :: 01001100 01000001 01000010</text>
+</svg>

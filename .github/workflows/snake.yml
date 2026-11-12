@@ -20,8 +20,8 @@ jobs:
         with:
           github_user_name: lunalab2026
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#003b00&color_dots=#e6f4ea,#9be9a8,#40c463,#00a82d,#006d1f
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#00ff41&color_dots=#0d1f0d,#003b00,#008f11,#00ff41,#b6ffb6&color_dot_border=#020a03
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
