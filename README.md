@@ -77,17 +77,27 @@
 <summary>🐇 <b>Follow the white rabbit...</b></summary>
 <br />
 
+<table align="center">
+<tr>
+<td>
+
 ```bash
 ┌──────────────────────────────────────────────────────────┐
-│  [ ACCESS ]    > acesso concedido                        │
-│  [ MISSION ]   > Você é o escolhido: faça um git commit  │
-│  [ FOCUS ]     > código · IA · automação · agentes       │
-│  [ MOTTO ]     > "Não existe colher. Só existe código."  │
-│  [ STATUS ]     ██████████████████░░  compilando...      │
+│  [ ACCESS ]   > acesso concedido                         │
+│  [ MISSION ]  > Você é o escolhido: faça um git commit   │
+│  [ FOCUS ]    > código · IA · automação · agentes        │
+│  [ MOTTO ]    > "Não existe colher. Só existe código."   │
+│  [ STATUS ]   ██████████████████░░  compilando...        │
 └──────────────────────────────────────────────────────────┘
 ```
 
+</td>
+</tr>
+</table>
+
 </details>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/lunalab2026/lunalab2026/main/assets/divider.svg" alt="" width="100%">
 
